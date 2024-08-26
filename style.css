@@ -19,7 +19,13 @@ header{
     align-items: center;
    
 }
-.header-manu a{
+
+.nav{
+    gap: 53px;
+    margin: 97px;
+    display: flex;
+}
+.nav a{
     font-family: Nunito Sans;
     font-size: 24px;
     font-weight: 400;
@@ -30,12 +36,6 @@ header{
 
 }
 
-.manu{
-    gap: 52px;
-    margin: 97px;
-  
-}
-
-.logo{
+.logo a{ 
     margin-left: 128px;
 }
